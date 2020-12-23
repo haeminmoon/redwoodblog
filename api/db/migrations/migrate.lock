@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20201223073523-migration
+20201223131950-create-contact
+20201223132431-update-test
